@@ -9,7 +9,7 @@ const About = () => {
         Projeto foi desenvolvido utilizando conceitos de Next JS, como rotas
         dinâmicas e páginas estáticas.
           </p>
-          <p>Também foi consumida a API de Pokémon da PokéAPI.</p>
+          <p>Também foi consumida a API de Pokémon da PokéAPI nele.</p>
       <Image
         src="/images/charizard.png"
         width="300"
